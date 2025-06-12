@@ -1,5 +1,11 @@
 # Recommendation_system
 # 📊 CODTECH Internship - Task 4
+**COMPANY NAME** : CODTECH IT SOLUTIONS                                                                                      
+**NAME** : DASARI YASASWINI                                                                                                   
+**INTERN ID** : CT06DL1175                                                                                                    
+**DOMAIN** : MACHINE LEARNING                                                                                                 
+**DURATION** : 6 WEEKS                                                                                                        
+**MENTOR** : NEELA SANTOSH
 
 ## 🧠 Recommendation System using Matrix Factorization (SVD)
 
